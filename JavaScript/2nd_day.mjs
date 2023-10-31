@@ -19,7 +19,8 @@ let isMarried =false;
 
 console.log(name);
 console.log(age);
-console.log(isMarried);
+console.log(isMarried)
+const gsd=d ;
 
 let num1=1;
 let num2=10;
